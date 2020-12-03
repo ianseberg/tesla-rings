@@ -1,37 +1,32 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  manifestName: 'Eventually',
-  manifestShortName: 'Landing', // max 12 characters
+  siteTitle: 'Tesla rings', // <title>
+  manifestName: 'Tesla rings',
+  manifestShortName: 'Tesla', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/tesla-rings/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: 'One ring to control your it',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "Stay tuned for the laung of our Tesla ring, leave your mail to remain updated.",
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
-    },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://github.com/ianseberg',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://facebook.com/loremipsum',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:loremipsum00@gmail.com',
     },
   ],
 };

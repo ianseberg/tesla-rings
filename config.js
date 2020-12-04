@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/tesla-rings/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'One ring to control your it',
+  heading: 'One ring to control it',
   subHeading:
     "Stay tuned for the laung of our Tesla ring, leave your mail to remain updated.",
   socialLinks: [

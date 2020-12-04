@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-eventually",
-  "version": "1.0.0",
-  "description": "Gatsby.js V2 starter template based on Eventually by HTML5 UP",
+  "name": "tesla-rings",
+  "version": "0.0.2",
+  "description": "Lorem ipsum",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-eventually.git"
+    "url": "git+https://github.com/ianseberg/tesla-rings.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "ianseberg",
+    "email": "ianseberg@rocketmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
@@ -37,12 +37,11 @@
   },
   "keywords": [
     "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-eventually"
+    "tesla-rings"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-eventually/issues"
+    "url": "https://github.com/ianseberg/tesla-rings/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-eventually#readme"
+  "homepage": "https://github.com/ianseberg/tesla-rings#readme"
 }

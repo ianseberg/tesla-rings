@@ -112,9 +112,9 @@ var plugins = [{
   plugin: __webpack_require__(/*! ./node_modules/gatsby-plugin-manifest/gatsby-ssr */ "./node_modules/gatsby-plugin-manifest/gatsby-ssr.js"),
   options: {
     "plugins": [],
-    "name": "Eventually",
-    "short_name": "Landing",
-    "start_url": "/gatsby-starter-eventually/",
+    "name": "Tesla rings",
+    "short_name": "teslarings",
+    "start_url": "/tesla-rings/",
     "background_color": "#663399",
     "theme_color": "#663399",
     "display": "standalone",
